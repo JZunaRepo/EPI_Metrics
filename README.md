@@ -3,10 +3,10 @@
 <P>This project aims to generate a pipeline and analysis of life expectancy in South America. 
 <hr>
 <h2>Libraries</h2>
-* Sqlalchemy
-* Pandas
-* Matplotlib
-* Tableu
+<p>Pandas</p>
+<p>SQLAlchemy</p>
+<p>Matplotlib</p>
+<p>Tableu</p>
 <hr>
 <p>Findings</p>
 <p>Based on this data we found that Suriname has the lowest population density while Ecuador has the highest population density in South America</p>
